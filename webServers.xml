@@ -10,6 +10,9 @@
       <webServer id="86ae705d-d443-42d2-9af3-a27494592d32" name="Beond" url="http://beond.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b9a5106f-1af7-417d-9e77-f6493fec4193" name="Mobido" url="http://mobido.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
