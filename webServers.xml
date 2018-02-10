@@ -13,6 +13,9 @@
       <webServer id="b9a5106f-1af7-417d-9e77-f6493fec4193" name="Mobido" url="http://mobido.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="61d1c75d-4dca-4c6d-a694-a484f4752bc9" name="gridopolis.test" url="http://gridopolis.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
