@@ -35,7 +35,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/Sites/trust-hub/node_modules/uglify-js/bin/uglifyjs" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="Themes" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
