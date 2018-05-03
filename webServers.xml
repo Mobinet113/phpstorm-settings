@@ -16,6 +16,9 @@
       <webServer id="61d1c75d-4dca-4c6d-a694-a484f4752bc9" name="gridopolis.test" url="http://gridopolis.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5e48543b-14dd-4d5a-a706-a6ab051bbd05" name="Inclarity" url="http://inclarity.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
