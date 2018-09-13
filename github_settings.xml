@@ -1,6 +1,22 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="mobinet113" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="c0db1f2f-293e-48e6-9179-2f58ab6aa205" name="mobinet113">
+      <server host="github.com" />
+    </account>
+    <account id="e4d83a73-9d66-409f-beef-b3ec2b42ef7b" name="mobinet113">
+      <server host="github.com" />
+    </account>
+    <account id="d690ba8d-2134-4b88-919d-69c2fa122ce9" name="mobinet113">
+      <server host="github.com" />
+    </account>
+    <account id="76f33b5a-4e6a-4b02-b310-2e3e9bc2846a" name="Mobinet113">
+      <server host="github.com" />
+    </account>
+    <account id="9804bf13-97a8-4309-8ed4-54f39fee1e04" name="mobinet113">
+      <server host="github.com" />
+    </account>
+    <account id="ca029ac9-c84f-4aba-af2b-2ce692b51cf6" name="mobinet113">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
