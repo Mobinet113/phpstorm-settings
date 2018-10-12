@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.nowcomms" type="PLAIN_TEXT" />
       <mapping pattern=".env.live" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
