@@ -19,6 +19,9 @@
       <webServer id="5e48543b-14dd-4d5a-a706-a6ab051bbd05" name="Inclarity" url="http://inclarity.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f8cd0c4d-5043-4767-91f7-d12e97f209fa" name="Local NPM" url="http://localhost:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
