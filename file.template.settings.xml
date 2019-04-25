@@ -2,6 +2,8 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Flow React Smart Component.js" reformat="true" live-template-enabled="true" />
+      <template name="React-Native Smart Component.js" reformat="true" live-template-enabled="true" />
+      <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
     </default_templates>
   </component>
 </application>
