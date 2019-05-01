@@ -22,7 +22,7 @@
       <webServer id="f8cd0c4d-5043-4767-91f7-d12e97f209fa" name="Local NPM" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="9992f082-ac98-4f68-85d2-004ed2f246c7" name="team card" url="https://www.teamcard.com/">
+      <webServer id="9992f082-ac98-4f68-85d2-004ed2f246c7" name="STG" url="https://www.teamcard.com/">
         <fileTransfer host="sftp.pressable.com" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
