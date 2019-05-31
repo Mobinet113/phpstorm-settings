@@ -1,27 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9076779a-7af8-4fac-a2e5-a09d89a3796f" name="University of West London" url="http://uwl.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="279c3045-da1c-460d-af87-bb7f57fd3889" name="Deepnet Security" url="http://deepnet.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="86ae705d-d443-42d2-9af3-a27494592d32" name="Beond" url="http://beond.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="b9a5106f-1af7-417d-9e77-f6493fec4193" name="Mobido" url="http://mobido.test">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="61d1c75d-4dca-4c6d-a694-a484f4752bc9" name="gridopolis.test" url="http://gridopolis.test">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="5e48543b-14dd-4d5a-a706-a6ab051bbd05" name="Inclarity" url="http://inclarity.test">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="f8cd0c4d-5043-4767-91f7-d12e97f209fa" name="Local NPM" url="http://localhost:8000">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="9992f082-ac98-4f68-85d2-004ed2f246c7" name="STG" url="https://www.teamcard.com/">
         <fileTransfer host="sftp.pressable.com" port="22" accessType="SFTP">
           <advancedOptions>
