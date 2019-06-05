@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../httpdocs/app/themes/helipad/template-parts/content-portfolio.php [helipad]'" />
+    <option name="defaultScopeName" value="File '.../httpdocs/app/themes/helipad/template-parts/content-portfolio.php [helipad]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../httpdocs/app/themes/helipad/template-parts/content-portfolio.php [helipad]'" />
   </component>
 </application>
