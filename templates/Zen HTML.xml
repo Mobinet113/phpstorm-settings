@@ -12,4 +12,10 @@
   <template name="col" value="&lt;col&gt;" description="&lt;col&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="src" value="&lt;source&gt;" description="&lt;source&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
