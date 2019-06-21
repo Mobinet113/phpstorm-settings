@@ -15,6 +15,7 @@
       <mapping pattern=".env.live" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="variables" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
