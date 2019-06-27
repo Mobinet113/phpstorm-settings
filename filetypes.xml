@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".rnd" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".git_ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.nowcomms" type="PLAIN_TEXT" />
-      <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".rnd" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.live" type="PLAIN_TEXT" />
-      <mapping ext="" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
+      <mapping pattern=".env.nowcomms" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="variables" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
