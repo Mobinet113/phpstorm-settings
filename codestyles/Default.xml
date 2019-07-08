@@ -33,6 +33,9 @@
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="VALUE_ALIGNMENT" value="2" />
+  </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -129,6 +132,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
