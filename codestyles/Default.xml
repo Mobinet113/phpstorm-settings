@@ -29,6 +29,7 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
@@ -87,9 +88,11 @@
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="300" />
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -107,10 +110,10 @@
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
     <option name="PARENTHESES_EXPRESSION_RPAREN_WRAP" value="true" />
-    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
@@ -118,9 +121,10 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
