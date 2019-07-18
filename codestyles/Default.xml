@@ -22,7 +22,6 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
-    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
